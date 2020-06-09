@@ -10,6 +10,8 @@ def state_log(star_date)
 end
 
 def crew
+  []
+end
 
 def engage
   puts state_log(date)
